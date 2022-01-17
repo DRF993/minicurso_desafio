@@ -27,6 +27,17 @@ body {
     padding-top: 2%;
 }
 
+#titulo {
+
+    color: rgb(22, 56, 119);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+    
+    
+}
+
 
 main {
 
